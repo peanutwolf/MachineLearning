@@ -5,13 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "OctaveDebugger",
+            "type": "octave",
             "request": "launch",
-            "name": "My Hello World",
-            "program": "printf('Hello World\n')",
-            "octave": "/snap/bin/octave-cli",
-        
-            "autoTerminate": false
+            "name": "Octave Debug Adapter(preview)",
+            "exec": "octave-cli",
+            "program": "${command:AskForProgramName}"
         }
     ]
 }
