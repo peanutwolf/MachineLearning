@@ -1,0 +1,10 @@
+If you could ship 20% faster, what would it mean for your business? What could you build? Better question, what’s slowing your teams down?
+
+Teams struggle to manage branching and merging.
+For bigger teams and projects, it gets even more complex.
+
+Remove the bottlenecks and automate your development your way. Join Brad Hart, Chief Technology Officer and Brent Schiestl, Senior Product Manager from Perforce to learn how you can:
+• 	Automate and customize development and release processes.
+• 	Easily track and propagate changes across teams.
+• 	Boost end user efficiency while reducing errors and conflicts.
+• 	Support multiple teams, parallel releases, component based development, and more.
